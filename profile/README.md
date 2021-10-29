@@ -16,6 +16,12 @@ Setting up your dev environment
 
     Add an "upstream" remote: git remote add upstream https://github.com/jonathanmoorellp/sscli.git
 
+Ectract 2002, 2006, 2017
+
+Launch A Suitable Developer Commad Prompt.
+
+and execute env.bat, the buildall.bat.
+
 HAVE FUN!
 
 https://github.com/jonathanmoorellp/Money.git
