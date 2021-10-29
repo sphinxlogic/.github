@@ -6,11 +6,11 @@
 
 Setting up your dev environment
 
-    Install the latest SSCLI source With Visual Studio 2003, 2005, 2010 Pro, Architect or Ultimate. On Windows 8.1 Pro or Enterprise or in a Virutral Machine.
+    	Install the latest SSCLI source With Visual Studio 2003,                                       	2005, 2010 Pro, Architect or Ultimate. On Windows 8.1 Pro or 	Enterprise or in a Virutral Machine.
 
-    Fork the sscli repo
+    	Fork the sscli repo
 
-    Clone your fork of the repo: git clone https://github.com/<username>/sscli.git
+    	Clone your fork of the repo: git clone https://github.com/<username>/sscli.git
 
     Fetch any submodules: cd sscli and git submodule update --init
 
