@@ -20,7 +20,7 @@ Extract 2002, 2006, 2010 or 2017
 
 Launch A Suitable Developer Commad Prompt.
 
-and execute env.bat, then buildall.bat.
+and execute env.bat, then buildall.cmd.
 
 HAVE FUN!
 
