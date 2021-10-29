@@ -12,5 +12,7 @@ Setting up your dev environment
 
     Add an "upstream" remote: git remote add upstream https://github.com/jonathanmoorellp/sscli.git
 
+HAVE FUN!
+
 https://github.com/jonathanmoorellp/Money.git
     
