@@ -10,7 +10,6 @@ Setting up your dev environment
     On Windows 8.1 Pro or Enterprise or in a Virutral Machine. Install 2003 Server RTM DDK 
     and SDK's Intsall 2008 Server RTM DDK and SDK's
 
-
     	Fork the sscli repo
 
     	Clone your fork of the repo: git clone https://github.com/<username>/sscli.git
