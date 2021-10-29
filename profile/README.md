@@ -12,6 +12,5 @@ Setting up your dev environment
 
     Add an "upstream" remote: git remote add upstream https://github.com/jonathanmoorellp/sscli.git
 
-https://www.investopedia.com/terms/t/timevalueofmoney.asp
-
+https://github.com/jonathanmoorellp/Money.git
     
