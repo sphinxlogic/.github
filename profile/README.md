@@ -1,3 +1,7 @@
+
+![Open Source Tools](banner.jpg)
+
+
 # Building Windows NT SSCLI 
 
 Setting up your dev environment
