@@ -6,7 +6,7 @@
 
 Setting up your dev environment
 
-    Install the latest SSCLI build With Visual Studio 2005 Pro
+    Install the latest SSCLI build With Visual Studio 2003, 2005, 2010 Pro, Architect ort Ultimate.
 
     Fork the sscli repo
 
