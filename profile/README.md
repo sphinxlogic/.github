@@ -1,4 +1,4 @@
-# .github
+# Building Windows NT 5.2 SSCLI 
 
 Setting up your dev environment
 
