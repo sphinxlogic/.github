@@ -1,4 +1,4 @@
-# Building Windows NT 5.2 SSCLI 
+# Building Windows NT SSCLI 
 
 Setting up your dev environment
 
