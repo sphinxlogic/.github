@@ -1,5 +1,5 @@
 
-#![](banner.jpg)
+# ![](banner.jpg)
 
 
 # Building Windows NT SSCLI 
