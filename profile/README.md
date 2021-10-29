@@ -20,7 +20,7 @@ Ectract 2002, 2006, 2017
 
 Launch A Suitable Developer Commad Prompt.
 
-and execute env.bat, the buildall.bat.
+and execute env.bat, then buildall.bat.
 
 HAVE FUN!
 
