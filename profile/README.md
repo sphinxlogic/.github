@@ -7,7 +7,11 @@
 Setting up your dev environment
 
     	Install the latest SSCLI source With Visual Studio 2003, 2005, 2010 Pro, Architect or Ultimate. 
-             On Windows 8.1 Pro or Enterprise or in a Virutral Machine.
+             On Windows 8.1 Pro or Enterprise or in a Virutral Machine. 
+
+             Install 2003 Server RTM DDK and SDK's
+             Intsall 2008 Server RTM DDK and SDK's
+
 
     	Fork the sscli repo
 
