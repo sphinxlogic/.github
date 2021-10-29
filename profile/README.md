@@ -1,5 +1,5 @@
 
-![Open Source Tools](banner.jpg)
+![](banner.jpg)
 
 
 # Building Windows NT SSCLI 
