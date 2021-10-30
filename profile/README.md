@@ -15,7 +15,7 @@ Setting up your dev environment
 
     Clone your fork of the repo: git clone https://github.com/<username>/sscli.git
 
-    Fetch any submodules: cd sscli and git submodule update --init --recursive
+    Fetch any submodules if any: cd sscli and git submodule update --init --recursive
     
     Add an "upstream" remote: git remote add upstream https://github.com/jonathanmoorellp/sscli.git
 
