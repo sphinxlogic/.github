@@ -11,9 +11,9 @@ Setting up your dev environment
     and SDK's Install a 'Longhorn' DDK and SDK. Intsall 2008 Server RTM DDK and SDK's You
     Should have all of this on disc from MSDN Subscriptions or the internet archive.
 
-    	Fork the sscli repo
+    Fork the sscli repo
 
-    	Clone your fork of the repo: git clone https://github.com/<username>/sscli.git
+    Clone your fork of the repo: git clone https://github.com/<username>/sscli.git
 
     Fetch any submodules: cd sscli and git submodule update --init
 
