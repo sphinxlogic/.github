@@ -25,6 +25,14 @@ Setting up your dev environment
 
     and execute env.bat, then buildall.cmd.
 
+
+My MSDN technical incedent in 2016
+
+https://referencesource.microsoft.com/
+
+https://thirdpartysource.microsoft.com/
+
+
 HAVE FUN!
 
 https://github.com/jonathanmoorellp/Money.git
