@@ -2,7 +2,7 @@
 ![Opensource](/images/banner.jpg)
 
 
-# Building Windows NT SSCLI 
+# Building Windows NT Shared Source Common Langauge Infustructure 1.0 & 2.0 
 
 Setting up your dev environment
 
