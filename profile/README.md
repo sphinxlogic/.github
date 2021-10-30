@@ -25,6 +25,7 @@ Setting up your dev environment
 
     and execute env.bat, then buildall.cmd.
 
+Browse the 2002 code in the sscli repository
 
 My MSDN technical incedent in 2016
 
