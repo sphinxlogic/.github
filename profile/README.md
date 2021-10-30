@@ -28,13 +28,13 @@ Setting up your dev environment
 
 My MSDN technical incedent in 2016
 
-* ![Microsoft Refereance Source](https://referencesource.microsoft.com/)
+* [Microsoft Refereance Source](https://referencesource.microsoft.com/)
 
 Other Downloads
 
-* ![Microsoft Third Party Disclosures](https://thirdpartysource.microsoft.com/)
+* [Microsoft Third Party Disclosures](https://thirdpartysource.microsoft.com/)
 
-* ![GNU DotNet](https://www.gnu.org/software/dotgnu/)
+* [GNU DotNet](https://www.gnu.org/software/dotgnu/)
 
 
 
