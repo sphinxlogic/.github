@@ -7,7 +7,7 @@
 Setting up your dev environment
 
     Install the latest SSCLI source With Visual Studio 2003, 2005, 2010 Pro, Architect or Ultimate. 
-    On Windows 8.1 Pro or Enterprise or in a Virutral Machine. Install 2003 Server RTM DDK 
+    On Windows 8.1 Pro or Enterprise with updates or in a Virutral Machine. Install 2003 Server RTM DDK 
     and SDK's Install a 'Longhorn' DDK and SDK. Intsall 2008 Server RTM DDK and SDK's You
     should have all of this on disc from MSDN Subscriptions or the internet archive.
 
@@ -36,6 +36,8 @@ Other Downloads
 
 * [GNU DotNet](https://www.gnu.org/software/dotgnu/)
 
+
+https://news.microsoft.com/2002/03/27/microsoft-releases-shared-source-cli-and-c-implementation/
 
 
 HAVE FUN!
