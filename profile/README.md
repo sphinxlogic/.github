@@ -35,5 +35,5 @@ My MSDN technical incedent in 2016
 
 HAVE FUN!
 
-https://github.com/shpinxlogic/Money.git
+https://github.com/sphinxlogic/Money.git
 
