@@ -2,7 +2,7 @@
 ![Opensource](/images/banner.jpg)
 
 
-# Building Windows NT Shared Source Common Langauge Infustructure 1.0 & 2.0 & the Microsoft Research 'Singularity RDK 2.0' or defualt startup managed opetering system.
+# Building Windows NT Acedemic Shared Source Common Langauge Infustructure 1.0 & 2.0 & the Microsoft Research 'Singularity RDK 2.0' or defualt startup managed opetering system.
 
 Setting up your dev environment
 
