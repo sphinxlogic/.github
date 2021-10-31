@@ -1,5 +1,5 @@
 
-![Opensource](/images/banner.png)
+![Opensource](/images/msft.jpg)
 
 
 # Building Windows NT Acedemic Shared Source Common Langauge Infustructure 1.0 & 2.0 & the Microsoft Research 'Singularity RDK 2.0' or defualt startup managed opetering system.
