@@ -2,7 +2,7 @@
 ![Opensource](/images/msft.jpg)
 
 
-# Building Windows NT Acedemic Shared Source Common Langauge Infustructure 1.0 & 2.0 & the Microsoft Research 'Singularity RDK 2.0' or default startup managed opetering system.
+# Building Windows NT Acedemic Shared Source Common Langauge Infustructure 1.0 & 2.0 & the Microsoft Research 'Singularity RDK 2.0' or default startup managed operating system.
 
 Setting up your dev environment
 
