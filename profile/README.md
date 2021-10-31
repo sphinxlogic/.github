@@ -2,7 +2,7 @@
 ![Opensource](/images/banner.jpg)
 
 
-# Building Windows NT Shared Source Common Langauge Infustructure 1.0 & 2.0 The Goal of Shinx Logic is to build Windows Server 2003 with Visual Studio 2017 by 2028. The acedemic way.
+# Building Windows NT Shared Source Common Langauge Infustructure 1.0 & 2.0 & the Microsoft Research 'Singularity RDK 2.0' or defualt startup managed opetering system.
 
 Setting up your dev environment
 
