@@ -17,7 +17,7 @@ Setting up your dev environment
 
     Fetch any submodules if any: cd sscli and git submodule update --init --recursive
     
-    Add an "upstream" remote: git remote add upstream https://github.com/jonathanmoorellp/sscli.git
+    Add an "upstream" remote: git remote add upstream https://github.com/sphinxlogic/sscli.git
 
     Extract 2002, 2006, 2010 or 2017
 
@@ -35,5 +35,5 @@ My MSDN technical incedent in 2016
 
 HAVE FUN!
 
-https://github.com/jonathanmoorellp/Money.git
+https://github.com/shpinxlogic/Money.git
 
