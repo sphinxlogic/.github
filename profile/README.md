@@ -30,15 +30,7 @@ Browse the 2002 code in the sscli repository
 My MSDN technical incedent in 2016
 
 * [Microsoft Refereance Source](https://referencesource.microsoft.com/)
-
-Other Downloads
-
 * [Microsoft Third Party Disclosures](https://thirdpartysource.microsoft.com/)
-
-* [GNU DotNet](https://www.gnu.org/software/dotgnu/)
-
-Press Release
-
 * [Microsoft SSCLI Press Release](https://news.microsoft.com/2002/03/27/microsoft-releases-shared-source-cli-and-c-implementation/)
 
 HAVE FUN!
