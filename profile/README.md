@@ -33,6 +33,8 @@ My MSDN technical incedent in 2016
 * [Microsoft Third Party Disclosures](https://thirdpartysource.microsoft.com/)
 * [Microsoft SSCLI Press Release](https://news.microsoft.com/2002/03/27/microsoft-releases-shared-source-cli-and-c-implementation/)
 
+You can find me on https://wahooconnect.com/ 
+
 HAVE FUN!
 
 https://github.com/sphinxlogic/Money.git
