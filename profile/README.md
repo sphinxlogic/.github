@@ -36,6 +36,8 @@ My MSDN technical incedent in 2016
 
 You can find me on https://wahooconnect.com/ 
 
+![ADP](/images/adp.png)
+
 HAVE FUN!
 
 https://github.com/sphinxlogic/Money.git
