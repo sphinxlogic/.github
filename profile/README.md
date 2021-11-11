@@ -2,8 +2,6 @@
 ![Opensource](/images/msft.jpg)
 
 
-# Building Windows NT Acedemic Shared Source Common Langauge Infustructure 1.0 & 2.0 & the Microsoft Research 'Singularity RDK 2.0' or default startup managed operating system.
-
 Setting up your dev environment
 
     Install the latest SSCLI source With Visual Studio 2003, 2005, 2010 Pro, Architect or Ultimate. 
@@ -35,8 +33,6 @@ My MSDN technical incedent in 2016
 * [Microsoft SSCLI Press Release](https://news.microsoft.com/2002/03/27/microsoft-releases-shared-source-cli-and-c-implementation/)
 
 You can find me on https://wahooconnect.com/ 
-
-![ADP](/images/adp.png)
 
 HAVE FUN!
 
