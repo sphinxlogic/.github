@@ -1,5 +1,5 @@
 
-![Opensource](/images/msft.jpg)
+![Opensource](/images/msdn.jpg)
 
 
 Setting up your dev environment
