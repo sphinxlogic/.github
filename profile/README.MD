@@ -1,10 +1,6 @@
 <img src="github-header-banner.png"> 
 <p><a href ="https://theoperatingsystemsco.github.io/">Website</a></p>
 <p><a href ="https://man.freebsd.org/cgi/man.cgi?query=os-release&sektion=&manpath=freebsd-release-ports">OS-RELEASE(5)</a></p>
-
-<p>&nbsp;</p>
-
-
 <article>
 <h1><a href="https://www.cambus.net/cross-building-netbsd-on-linux/">Cross building NetBSD on Linux</a></h1>
 <span class="s95"> Frederic Cambus August 29, 2014 [<a href="https://www.cambus.net/categories/netbsd/">NetBSD</a>] </span>
