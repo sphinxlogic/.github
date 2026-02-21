@@ -3,7 +3,7 @@
 <p><a href ="https://man.freebsd.org/cgi/man.cgi?query=os-release&sektion=&manpath=freebsd-release-ports">OS-RELEASE(5)</a></p>
 <article>
 <h1><a href="https://www.cambus.net/cross-building-netbsd-on-linux/">Cross building NetBSD on Linux</a></h1>
-<span class="s95"> Frederic Cambus August 29, 2014 [<a href="https://www.cambus.net/categories/netbsd/">NetBSD</a>] </span>
+
 <p>Known for its portability, it might come at no surprise that <strong>NetBSD</strong> (and <strong>pkgsrc</strong> as well) is also easy to <strong>cross build</strong> on other platforms and even other hosts. Building NetBSD on Linux can be very convenient, as it's far easier to get access to high-performance Linux powered machines than to NetBSD ones. So let's go through the process and build a <strong>NetBSD/amd64</strong> release on a Debian host, using an unprivileged user account.</p>
 <p>First, we will need to install some development packages on the host machine:</p>
 <div class="ccw"><button class="cc " type="button">Copy</button>
