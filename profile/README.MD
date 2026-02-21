@@ -7,7 +7,7 @@
 <p>DESCRIPTION
        The  os-release	file  is a new-line separated list of key value	pairs.
        The syntax of this file is a reduced sh variable assignment with the
-       following restrictions
+       following restrictions</p>
 <ul>
        <li>Strings cannot be concatenated together</li>
        <li>No variable expansion is done</li>
