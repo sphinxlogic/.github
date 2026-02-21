@@ -17,10 +17,10 @@
        <li>Non-printable characters should not be used in the strings</li>
 </ul>
 
-       <p>Lines starting with the character # are ignored as comments.</p>
+       <p>Lines starting with the character # are ignored as comments.
 
 VARIABLES
-       The following variables are defined by the standard.
+       The following variables are defined by the standard.</p>
        NAME	   A string describing the preferred OS	name.
        VERSION	   Version  string for the OS, in its usual and	customary format.
        ID	   Lower case version of the name with	only  a-z,  0-9,  `.',
