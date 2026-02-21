@@ -2,25 +2,26 @@
 <p>OS-RELEASE	      File Formats Manual		 OS-RELEASE</p>
 
 <p>NAME
-       os-release -- file describing the current OS and	some of	its attributes
+       os-release -- file describing the current OS and	some of	its attributes</p>
 
-DESCRIPTION
+<p>DESCRIPTION
        The  os-release	file  is a new-line separated list of key value	pairs.
        The syntax of this file is a reduced sh variable assignment with the
-       following restrictions:
+       following restrictions
+<ul>
+       <li>Strings cannot be concatenated together</li>
 
-           Strings cannot be concatenated together
+       <li>No variable expansion is done</li>
 
-       •   No variable expansion is done
+       <li>All shell special characters	must be	quoted as documented in	sh</li>
 
-       •   All shell special characters	must be	quoted as documented in	sh
+       <li>Variable assignments	must be	included inside	of  double  quotes if
+	   they	contain	characters outside of A-Z, a-z and 0-9</li>
 
-       •   Variable assignments	must be	included inside	of  double  quotes  if
-	   they	contain	characters outside of A-Z, a-z and 0-9
+       <li>All strings should be UTF-8 format</li>
 
-       •   All strings should be UTF-8 format
-
-       •   Non-printable characters should not be used in the strings
+       <li>Non-printable characters should not be used in the strings</li>
+</ul>
 
        Lines starting with the character `#' are ignored as comments.</p>
 
