@@ -95,7 +95,7 @@ wget ftp://ftp.netbsd.org/pub/NetBSD/NetBSD-6.1.4/source/sets/syssrc.tgz
 </article>
 <footer><hr />
 <div class="c"><nav></nav>
-<p class="s90">Copyright &copy; 2009-2026 Frederic Cambus</p>
+<p class="s90">Copyright &copy; 2009-2026 Jonathan David Allen Moore</p>
 <nav>
 
 </nav></div>
