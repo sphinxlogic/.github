@@ -10,20 +10,14 @@
        following restrictions
 <ul>
        <li>Strings cannot be concatenated together</li>
-
        <li>No variable expansion is done</li>
-
        <li>All shell special characters	must be	quoted as documented in	sh</li>
-
-       <li>Variable assignments	must be	included inside	of  double  quotes if
-	   they	contain	characters outside of A-Z, a-z and 0-9</li>
-
+       <li>Variable assignments	must be	included inside	of  double  quotes if they contain characters outside of A-Z, a-z and 0-9</li>
        <li>All strings should be UTF-8 format</li>
-
        <li>Non-printable characters should not be used in the strings</li>
 </ul>
 
-       Lines starting with the character `#' are ignored as comments.</p>
+       <p>Lines starting with the character `#' are ignored as comments.</p>
 
 VARIABLES
        The following variables are defined by the standard.
