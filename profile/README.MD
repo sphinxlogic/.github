@@ -1,3 +1,6 @@
+<html>
+<head>
+<body>
 <a href ="https://man.freebsd.org/cgi/man.cgi?query=os-release&sektion=&manpath=freebsd-release-ports">OS-RELEASE(5)</a>
 <p>OS-RELEASE	      File Formats Manual		 OS-RELEASE</p>
 
@@ -17,10 +20,10 @@
        <li>Non-printable characters should not be used in the strings</li>
 </ul>
 
-       <p>Lines starting with the character # are ignored as comments.
+       <p>Lines starting with the character # are ignored as comments.</p>
 
 VARIABLES
-       The following variables are defined by the standard.</p>
+       The following variables are defined by the standard.
        NAME	   A string describing the preferred OS	name.
        VERSION	   Version  string for the OS, in its usual and	customary format.
        ID	   Lower case version of the name with	only  a-z,  0-9,  `.',
@@ -69,3 +72,5 @@ HISTORY
        This file first appeared	in FreeBSD 13.0.
 
 FreeBSD	15.0		       November	23, 2021		 OS-RELEASE(5)
+</body>
+<html>
