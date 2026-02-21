@@ -3,8 +3,8 @@
 <p><a href ="https://man.freebsd.org/cgi/man.cgi?query=os-release&sektion=&manpath=freebsd-release-ports">OS-RELEASE(5)</a></p>
 
 <p>&nbsp;</p>
-<p> Cross building NetBSD on Linux | Frederic Cambus    </p>
-<noscript><link rel="stylesheet" href="https://www.cambus.net/nojs.css" /></noscript>
+
+
 <article>
 <h1><a href="https://www.cambus.net/cross-building-netbsd-on-linux/">Cross building NetBSD on Linux</a></h1>
 <span class="s95"> Frederic Cambus August 29, 2014 [<a href="https://www.cambus.net/categories/netbsd/">NetBSD</a>] </span>
@@ -101,11 +101,7 @@ wget ftp://ftp.netbsd.org/pub/NetBSD/NetBSD-6.1.4/source/sets/syssrc.tgz
 <div class="c"><nav></nav>
 <p class="s90">Copyright &copy; 2009-2026 Frederic Cambus</p>
 <nav>
-<ul>
-<li class="s90"><a href="https://www.cambus.net/about/"> About </a></li>
-<li class="s90"><a href="https://www.cambus.net/contact/"> Contact </a></li>
-<li class="s90"><a href="https://www.cambus.net/sitemap.xml" target="_blank"> Sitemap </a></li>
-</ul>
+
 </nav></div>
 </footer>
 
