@@ -1,4 +1,4 @@
-<img src="461205780_389610997520484_4178372635781333717_n.png">
+<img src="erepublic.brightspotcdn.jpeg">
 <article>
 
 <ul>
